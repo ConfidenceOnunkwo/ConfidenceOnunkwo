@@ -1,8 +1,7 @@
-## Hi there 👋
- Hi, I'm Confidence Onunkwo 
-##Computer Programmer | Java | SQL | Linux | Web Development
+## Hi, I'm Confidence Onunkwo 
+## Computer Programmer | Java | SQL | Linux | Web Development
 
-##I am a Computer Programming student at Algonquin College with a strong focus on backend development, database systems, and data analysis.
+## I am a Computer Programming student at Algonquin College with a strong focus on backend development, database systems, and data analysis.
 
 ## Technical Skills
 * Java (OOP, problem-solving)
